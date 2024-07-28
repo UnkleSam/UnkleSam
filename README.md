@@ -1,15 +1,14 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Kanishk Ghai</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full-Stack developer</h3>
 
-- 🌱 I’m currently learning **MEARN , React Native**
-
+- 🌱 I’m currently learning **MERN , React Native, Go lang**
 - 📫 How to reach me **kanishkghai343@gmail.com**
-- 
+- 🎉 Proficient in **Web Dev, Java, Typescript, PowerBI, Python**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
